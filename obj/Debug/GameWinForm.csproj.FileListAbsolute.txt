@@ -1,0 +1,29 @@
+c:\users\borisov.n.a\documents\visual studio 2012\Projects\GameWinForm\GameWinForm\bin\Debug\GameWinForm.exe.config
+C:\Users\borisov.n.a\Documents\Visual Studio 2012\Projects\GameWinForm\GameWinForm\bin\Debug\GameWinForm.exe
+C:\Users\borisov.n.a\Documents\Visual Studio 2012\Projects\GameWinForm\GameWinForm\bin\Debug\GameWinForm.pdb
+C:\Users\borisov.n.a\Documents\Visual Studio 2012\Projects\GameWinForm\GameWinForm\obj\Debug\GameWinForm.csprojResolveAssemblyReference.cache
+C:\Users\borisov.n.a\Documents\Visual Studio 2012\Projects\GameWinForm\GameWinForm\obj\Debug\GameWinForm.Form1.resources
+C:\Users\borisov.n.a\Documents\Visual Studio 2012\Projects\GameWinForm\GameWinForm\obj\Debug\GameWinForm.Properties.Resources.resources
+C:\Users\borisov.n.a\Documents\Visual Studio 2012\Projects\GameWinForm\GameWinForm\obj\Debug\GameWinForm.csproj.GenerateResource.Cache
+C:\Users\borisov.n.a\Documents\Visual Studio 2012\Projects\GameWinForm\GameWinForm\obj\Debug\GameWinForm.exe
+C:\Users\borisov.n.a\Documents\Visual Studio 2012\Projects\GameWinForm\GameWinForm\obj\Debug\GameWinForm.pdb
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\bin\Debug\GameWinForm.exe.config
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\bin\Debug\GameWinForm.exe
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\bin\Debug\GameWinForm.pdb
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\obj\Debug\GameWinForm.csprojAssemblyReference.cache
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\obj\Debug\GameWinForm.Form1.resources
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\obj\Debug\GameWinForm.Properties.Resources.resources
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\obj\Debug\GameWinForm.csproj.GenerateResource.cache
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\obj\Debug\GameWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\obj\Debug\GameWinForm.exe
+C:\Users\Lexak\Desktop\ww5form\GameWinForm\obj\Debug\GameWinForm.pdb
+C:\Users\Lexak\Desktop\wform5\GameWinForm\bin\Debug\GameWinForm.exe.config
+C:\Users\Lexak\Desktop\wform5\GameWinForm\bin\Debug\GameWinForm.exe
+C:\Users\Lexak\Desktop\wform5\GameWinForm\bin\Debug\GameWinForm.pdb
+C:\Users\Lexak\Desktop\wform5\GameWinForm\obj\Debug\GameWinForm.csprojAssemblyReference.cache
+C:\Users\Lexak\Desktop\wform5\GameWinForm\obj\Debug\GameWinForm.Form1.resources
+C:\Users\Lexak\Desktop\wform5\GameWinForm\obj\Debug\GameWinForm.Properties.Resources.resources
+C:\Users\Lexak\Desktop\wform5\GameWinForm\obj\Debug\GameWinForm.csproj.GenerateResource.cache
+C:\Users\Lexak\Desktop\wform5\GameWinForm\obj\Debug\GameWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Lexak\Desktop\wform5\GameWinForm\obj\Debug\GameWinForm.exe
+C:\Users\Lexak\Desktop\wform5\GameWinForm\obj\Debug\GameWinForm.pdb
